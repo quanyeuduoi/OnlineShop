@@ -3,23 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/addUser.jsp</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/productListFilterAdmin.jsp</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/Controller/addUser.java</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/Controller/addProduct.java</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/menuAdmin.jsp</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/Controller/deleteProduct.java</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/Controller/filterProduct.java</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/Controller/updateOrder.java</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/Controller/updateProduct.java</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/profile.jsp</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/orderListFilterAdmin.jsp</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/productListSearchAdmin.jsp</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/DAL/StatusDAO.java</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/DAL/ProductDAO.java</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/productListAdmin.jsp</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/homepage.jsp</file>
-            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/web/updateProduct.jsp</file>
+            <file>file:/D:/FULearning/Semester%20IV/PRJ301/OnlineShopPrj/src/java/Controller/CartControl.java</file>
         </group>
     </open-files>
 </project-private>
